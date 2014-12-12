@@ -7,6 +7,7 @@ You can setup your local environment with the following commands :
 ```bash
 git clone https://github.com/Orange-OpenSource/vespa-core.git --branch tutorial
 cd vespa-core/vespa
+pip install -r requirements.txt
 ```
 
 Now we configure our VESPA instance to fit our infrastructure
