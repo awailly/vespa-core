@@ -21,7 +21,8 @@
 # along with VESPA.  If not, see <http://www.gnu.org/licenses/>.
 
 """
-log_pipe
+Main logging wrapper. Beware, some old debug levels are still present for
+legacy purposes. They will be removed soon.
 """
 
 
